@@ -8,8 +8,10 @@
 
 Занимаюсь мобильной разработкой с 2023г. 
 
-- Email: kosmonur@gmail.com
-- Telegram: [@kosmonur](https://t.me/kosmonur)
+<i class="fa fa-envelope" aria-hidden="true"></i>
+- www: https://kosmonur.ru
+- email: kosmonur@gmail.com
+- telegram: [@kosmonur](https://t.me/kosmonur)
 
 ---
 
