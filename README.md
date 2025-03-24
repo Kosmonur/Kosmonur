@@ -1,8 +1,8 @@
 <html>
    <body>
-      <h2> Привет 👋, меня зовут Александр. <a href="https://www.codewars.com/users/kosmonur"><img src="https://www.codewars.com/users/kosmonur/badges/micro" align="right"></a></h2
+      <h2> Привет 👋, меня зовут Александр. <a href="https://www.codewars.com/users/kosmonur"><img src="https://www.codewars.com/users/kosmonur/badges/micro" align="right"></a></h2>
    </body>
-</html
+</html>
   
 #### Я iOS разработчик.📱
 
@@ -15,19 +15,45 @@
 
 ---
 
-#### Мой стек:
-- Технологии и инструменты:  Swift / Git / XCode / Charles / Fork / Sourcetree / Postman / SpriteKit / SwiftUI
-- Архитектуры: MVVM / MVP / MVC
-- Вёрстка: Code Auto Layout / Storyboard
-- Библиотеки: Foundation / UIKit / SwiftUI / Kingfisher / XCTest / SnapshotTesting / Combine / YandexMobileMetrica / YandexMobileAds / Game Center
-- Менеджеры зависимостей: Cocoapods / SPM
-- Работа с данными:   CoreData / UserDefaults / Keychain / SwiftKeychainWrapper
-- Работа с сетью:   URLSession / OAuth2 / WebKit / JSON 
-- Тестирование: UnitTests / UITests
+#### 🛠 Мой стек:
+
+<p align="left">
+<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### Технический стек:
+
+| 🏗 Архитектуры | 📱 UI/UX | 🔄 Менеджеры зависимостей |
+|----------------|----------|--------------------------|
+| MVVM          | SwiftUI  | Cocoapods               |
+| MVP           | UIKit    | SPM                     |
+| MVC           | Auto Layout | |
+
+| 📚 Фреймворки и библиотеки | 🔐 Хранение данных | 🌐 Работа с сетью |
+|---------------------------|-------------------|------------------|
+| Foundation               | CoreData         | URLSession       |
+| UIKit                    | UserDefaults     | OAuth2          |
+| SwiftUI                  | Keychain         | WebKit          |
+| Kingfisher               | SwiftKeychainWrapper | JSON        |
+| XCTest                   |                   |                |
+| SnapshotTesting          |                   |                |
+| Combine                  |                   |                |
+| YandexMobileMetrica      |                   |                |
+| YandexMobileAds          |                   |                |
+| Game Center              |                   |                |
+
+| 🧪 Тестирование | 🎨 Вёрстка |
+|----------------|------------|
+| UnitTests      | Code Auto Layout |
+| UITests        | Storyboard |
 
 ---
 
-#### Мои проекты:
+#### 📱 Мои проекты:
+
 - [Dungeon vases](https://apps.apple.com/app/dungeon-vases/id6740935059) Игра-головоломка, в которой необходимо наполнить вазы определенным количеством шариков нужного цвета на каждом уровне. Для этого необходимо нарисовать правильный путь - линию, по которой шарики будут катиться к вазам. *(MVVM, SwiftUI, SpriteKit, Onboarding, Localization, YandexMobileMetrica, Game Center, AVFoundation)*. Опубликована в Apple Store, вошла в ТОП200 игр.
 - [1000 wisdoms](https://apps.apple.com/app/1000-wisdoms/id6477355527) Игра-головоломка, в которой надо искать слова из пословиц и поговорок на пяти языках. *(MVVM, UIKit, Auto Layout Programmatically, Combine, Onboarding, Localization, UICollectionView)*. Опубликована в Apple Store.
 - [Travel Schedule](https://github.com/Kosmonur/TravelSchedule) Приложение для просмотра расписания поездов между двумя станциями. *(SwiftUI, MVVM, Async/Await, Yandex.Rasp API, Code Generation, Reactive Programming)*
